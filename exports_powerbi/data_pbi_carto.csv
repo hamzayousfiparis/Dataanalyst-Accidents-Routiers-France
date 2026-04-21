@@ -1,0 +1,193 @@
+﻿dept;n_usagers;n_graves;n_accidents;taux_gravite;periode;dept_label;region
+1;14777;691;6237;4.68;Historique (2005-2018);Ain;Auvergne-Rhône-Alpes
+10;7327;354;3220;4.83;Historique (2005-2018);Aube;Grand Est
+11;12110;615;5333;5.08;Historique (2005-2018);Aude;Occitanie
+12;6183;378;2634;6.11;Historique (2005-2018);Aveyron;Occitanie
+13;132534;1901;59442;1.43;Historique (2005-2018);Bouches-du-Rhône;Provence-Alpes-Côte d Azur
+14;15533;550;6730;3.54;Historique (2005-2018);Calvados;Normandie
+15;2793;169;1240;6.05;Historique (2005-2018);Cantal;Auvergne-Rhône-Alpes
+16;5950;419;2733;7.04;Historique (2005-2018);Charente;Nouvelle-Aquitaine
+17;24686;879;11241;3.56;Historique (2005-2018);Charente-Maritime;Nouvelle-Aquitaine
+18;9541;422;4234;4.42;Historique (2005-2018);Cher;Centre-Val de Loire
+19;8162;266;3605;3.26;Historique (2005-2018);Corrèze;Nouvelle-Aquitaine
+2;9968;626;4339;6.28;Historique (2005-2018);Aisne;Hauts-de-France
+21;12635;512;5453;4.05;Historique (2005-2018);Côte-d Or;Bourgogne-Franche-Comté
+22;14120;555;6197;3.93;Historique (2005-2018);Côtes-d Armor;Bretagne
+23;2322;129;1086;5.56;Historique (2005-2018);Creuse;Nouvelle-Aquitaine
+24;8925;579;3875;6.49;Historique (2005-2018);Dordogne;Nouvelle-Aquitaine
+25;12855;569;5638;4.43;Historique (2005-2018);Doubs;Bourgogne-Franche-Comté
+26;15623;624;6369;3.99;Historique (2005-2018);Drôme;Auvergne-Rhône-Alpes
+27;13234;639;5689;4.83;Historique (2005-2018);Eure;Normandie
+28;12074;619;5067;5.13;Historique (2005-2018);Eure-et-Loir;Centre-Val de Loire
+29;20070;686;9186;3.42;Historique (2005-2018);Finistère;Bretagne
+2A;8021;185;3462;2.31;Historique (2005-2018);Corse-du-Sud;Corse
+2B;11365;297;4808;2.61;Historique (2005-2018);Haute-Corse;Corse
+3;9090;472;3921;5.19;Historique (2005-2018);Allier;Auvergne-Rhône-Alpes
+30;25770;953;11312;3.7;Historique (2005-2018);Gard;Occitanie
+31;36150;892;16100;2.47;Historique (2005-2018);Haute-Garonne;Occitanie
+32;5407;316;2424;5.84;Historique (2005-2018);Gers;Occitanie
+33;57567;1202;24640;2.09;Historique (2005-2018);Gironde;Nouvelle-Aquitaine
+34;35334;1364;15541;3.86;Historique (2005-2018);Hérault;Occitanie
+35;26229;788;11967;3.0;Historique (2005-2018);Ille-et-Vilaine;Bretagne
+36;7778;275;3648;3.54;Historique (2005-2018);Indre;Centre-Val de Loire
+37;19016;586;8847;3.08;Historique (2005-2018);Indre-et-Loire;Centre-Val de Loire
+38;25590;1024;10819;4.0;Historique (2005-2018);Isère;Auvergne-Rhône-Alpes
+39;4504;406;1843;9.01;Historique (2005-2018);Jura;Bourgogne-Franche-Comté
+4;4961;308;2162;6.21;Historique (2005-2018);Alpes-de-Haute-Provence;Provence-Alpes-Côte d Azur
+40;8175;524;3499;6.41;Historique (2005-2018);Landes;Nouvelle-Aquitaine
+41;10484;534;4445;5.09;Historique (2005-2018);Loir-et-Cher;Centre-Val de Loire
+42;23686;502;10373;2.12;Historique (2005-2018);Loire;Auvergne-Rhône-Alpes
+43;5773;299;2506;5.18;Historique (2005-2018);Haute-Loire;Auvergne-Rhône-Alpes
+44;28564;1084;12931;3.79;Historique (2005-2018);Loire-Atlantique;Pays de la Loire
+45;15460;726;6778;4.7;Historique (2005-2018);Loiret;Centre-Val de Loire
+46;3480;242;1593;6.95;Historique (2005-2018);Lot;Occitanie
+47;8282;470;3660;5.67;Historique (2005-2018);Lot-et-Garonne;Nouvelle-Aquitaine
+48;2377;136;1084;5.72;Historique (2005-2018);Lozère;Occitanie
+49;25085;622;11864;2.48;Historique (2005-2018);Maine-et-Loire;Pays de la Loire
+5;4763;184;1964;3.86;Historique (2005-2018);Hautes-Alpes;Provence-Alpes-Côte d Azur
+50;15743;539;6978;3.42;Historique (2005-2018);Manche;Normandie
+51;12929;634;5538;4.9;Historique (2005-2018);Marne;Grand Est
+52;5908;262;2628;4.43;Historique (2005-2018);Haute-Marne;Grand Est
+53;4539;330;2015;7.27;Historique (2005-2018);Mayenne;Pays de la Loire
+54;22691;546;9986;2.41;Historique (2005-2018);Meurthe-et-Moselle;Grand Est
+55;4112;234;1937;5.69;Historique (2005-2018);Meuse;Grand Est
+56;19480;681;8980;3.5;Historique (2005-2018);Morbihan;Bretagne
+57;20583;775;8801;3.77;Historique (2005-2018);Moselle;Grand Est
+58;6275;291;2960;4.64;Historique (2005-2018);Nièvre;Bourgogne-Franche-Comté
+59;57646;1346;25899;2.33;Historique (2005-2018);Nord;Hauts-de-France
+6;68070;871;30954;1.28;Historique (2005-2018);Alpes-Maritimes;Provence-Alpes-Côte d Azur
+60;15924;885;6653;5.56;Historique (2005-2018);Oise;Hauts-de-France
+61;6094;396;2671;6.5;Historique (2005-2018);Orne;Normandie
+62;26808;1098;11595;4.1;Historique (2005-2018);Pas-de-Calais;Hauts-de-France
+63;20394;570;9122;2.79;Historique (2005-2018);Puy-de-Dôme;Auvergne-Rhône-Alpes
+64;26266;546;11986;2.08;Historique (2005-2018);Pyrénées-Atlantiques;Nouvelle-Aquitaine
+65;7605;252;3269;3.31;Historique (2005-2018);Hautes-Pyrénées;Occitanie
+66;9900;414;4173;4.18;Historique (2005-2018);Pyrénées-Orientales;Occitanie
+67;28363;684;12752;2.41;Historique (2005-2018);Bas-Rhin;Grand Est
+68;15798;509;7069;3.22;Historique (2005-2018);Haut-Rhin;Grand Est
+69;69800;876;30331;1.26;Historique (2005-2018);Rhône;Auvergne-Rhône-Alpes
+7;6307;367;2869;5.82;Historique (2005-2018);Ardèche;Auvergne-Rhône-Alpes
+70;4284;322;1825;7.52;Historique (2005-2018);Haute-Saône;Bourgogne-Franche-Comté
+71;13516;728;5623;5.39;Historique (2005-2018);Saône-et-Loire;Bourgogne-Franche-Comté
+72;13448;549;5965;4.08;Historique (2005-2018);Sarthe;Pays de la Loire
+73;6911;390;3040;5.64;Historique (2005-2018);Savoie;Auvergne-Rhône-Alpes
+74;16017;692;7064;4.32;Historique (2005-2018);Haute-Savoie;Auvergne-Rhône-Alpes
+75;199206;605;99021;0.3;Historique (2005-2018);Paris;Île-de-France
+76;27754;845;12388;3.04;Historique (2005-2018);Seine-Maritime;Normandie
+77;31509;1193;13338;3.79;Historique (2005-2018);Seine-et-Marne;Île-de-France
+78;37884;725;16384;1.91;Historique (2005-2018);Yvelines;Île-de-France
+79;6700;441;2980;6.58;Historique (2005-2018);Deux-Sèvres;Nouvelle-Aquitaine
+8;4179;249;1935;5.96;Historique (2005-2018);Ardennes;Grand Est
+80;19073;697;8179;3.65;Historique (2005-2018);Somme;Hauts-de-France
+81;5976;528;2677;8.84;Historique (2005-2018);Tarn;Occitanie
+82;6506;411;3011;6.32;Historique (2005-2018);Tarn-et-Garonne;Occitanie
+83;34166;1164;14647;3.41;Historique (2005-2018);Var;Provence-Alpes-Côte d Azur
+84;12521;682;5531;5.45;Historique (2005-2018);Vaucluse;Provence-Alpes-Côte d Azur
+85;11257;767;4781;6.81;Historique (2005-2018);Vendée;Pays de la Loire
+86;12152;410;5226;3.37;Historique (2005-2018);Vienne;Nouvelle-Aquitaine
+87;15344;368;7027;2.4;Historique (2005-2018);Haute-Vienne;Nouvelle-Aquitaine
+88;7888;449;3432;5.69;Historique (2005-2018);Vosges;Grand Est
+89;8936;537;3835;6.01;Historique (2005-2018);Yonne;Bourgogne-Franche-Comté
+9;3446;213;1489;6.18;Historique (2005-2018);Ariège;Occitanie
+90;5657;94;2575;1.66;Historique (2005-2018);Territoire de Belfort;Bourgogne-Franche-Comté
+91;45966;556;20443;1.21;Historique (2005-2018);Essonne;Île-de-France
+92;77631;380;36409;0.49;Historique (2005-2018);Hauts-de-Seine;Île-de-France
+93;87898;521;39476;0.59;Historique (2005-2018);Seine-Saint-Denis;Île-de-France
+94;76950;402;34658;0.52;Historique (2005-2018);Val-de-Marne;Île-de-France
+95;33170;465;15300;1.4;Historique (2005-2018);Val-d Oise;Île-de-France
+1;6861;1731;2627;25.23;Récent (2019-2024);Ain;Auvergne-Rhône-Alpes
+10;5443;824;2137;15.14;Récent (2019-2024);Aube;Grand Est
+11;5133;1298;1996;25.29;Récent (2019-2024);Aude;Occitanie
+12;2646;901;1094;34.05;Récent (2019-2024);Aveyron;Occitanie
+13;37534;5263;14473;14.02;Récent (2019-2024);Bouches-du-Rhône;Provence-Alpes-Côte d Azur
+14;7704;1686;3032;21.88;Récent (2019-2024);Calvados;Normandie
+15;1911;465;812;24.33;Récent (2019-2024);Cantal;Auvergne-Rhône-Alpes
+16;2002;837;881;41.81;Récent (2019-2024);Charente;Nouvelle-Aquitaine
+17;6982;1741;2804;24.94;Récent (2019-2024);Charente-Maritime;Nouvelle-Aquitaine
+18;2581;821;987;31.81;Récent (2019-2024);Cher;Centre-Val de Loire
+19;2535;667;1081;26.31;Récent (2019-2024);Corrèze;Nouvelle-Aquitaine
+2;3164;1080;1295;34.13;Récent (2019-2024);Aisne;Hauts-de-France
+21;3406;1088;1251;31.94;Récent (2019-2024);Côte-d Or;Bourgogne-Franche-Comté
+22;5979;1642;2482;27.46;Récent (2019-2024);Côtes-d Armor;Bretagne
+23;676;269;300;39.79;Récent (2019-2024);Creuse;Nouvelle-Aquitaine
+24;2753;1154;1141;41.92;Récent (2019-2024);Dordogne;Nouvelle-Aquitaine
+25;4949;1138;1879;22.99;Récent (2019-2024);Doubs;Bourgogne-Franche-Comté
+26;4743;1385;1854;29.2;Récent (2019-2024);Drôme;Auvergne-Rhône-Alpes
+27;6581;1418;2623;21.55;Récent (2019-2024);Eure;Normandie
+28;3735;1138;1439;30.47;Récent (2019-2024);Eure-et-Loir;Centre-Val de Loire
+29;10147;2050;4307;20.2;Récent (2019-2024);Finistère;Bretagne
+2A;3740;705;1562;18.85;Récent (2019-2024);Corse-du-Sud;Corse
+2B;4485;813;1791;18.13;Récent (2019-2024);Haute-Corse;Corse
+3;3399;1110;1410;32.66;Récent (2019-2024);Allier;Auvergne-Rhône-Alpes
+30;6384;2063;2549;32.32;Récent (2019-2024);Gard;Occitanie
+31;9038;2284;3789;25.27;Récent (2019-2024);Haute-Garonne;Occitanie
+32;1807;638;822;35.31;Récent (2019-2024);Gers;Occitanie
+33;20489;3241;7734;15.82;Récent (2019-2024);Gironde;Nouvelle-Aquitaine
+34;10403;2891;4034;27.79;Récent (2019-2024);Hérault;Occitanie
+35;10988;1908;4308;17.36;Récent (2019-2024);Ille-et-Vilaine;Bretagne
+36;1626;541;695;33.27;Récent (2019-2024);Indre;Centre-Val de Loire
+37;9004;1282;3592;14.24;Récent (2019-2024);Indre-et-Loire;Centre-Val de Loire
+38;9942;2705;3915;27.21;Récent (2019-2024);Isère;Auvergne-Rhône-Alpes
+39;1999;786;810;39.32;Récent (2019-2024);Jura;Bourgogne-Franche-Comté
+4;2776;798;1212;28.75;Récent (2019-2024);Alpes-de-Haute-Provence;Provence-Alpes-Côte d Azur
+40;2537;1042;1046;41.07;Récent (2019-2024);Landes;Nouvelle-Aquitaine
+41;3018;905;1208;29.99;Récent (2019-2024);Loir-et-Cher;Centre-Val de Loire
+42;6220;1562;2435;25.11;Récent (2019-2024);Loire;Auvergne-Rhône-Alpes
+43;2355;779;988;33.08;Récent (2019-2024);Haute-Loire;Auvergne-Rhône-Alpes
+44;8392;2201;3550;26.23;Récent (2019-2024);Loire-Atlantique;Pays de la Loire
+45;7286;1331;2829;18.27;Récent (2019-2024);Loiret;Centre-Val de Loire
+46;1386;526;604;37.95;Récent (2019-2024);Lot;Occitanie
+47;3232;1021;1250;31.59;Récent (2019-2024);Lot-et-Garonne;Nouvelle-Aquitaine
+48;909;348;444;38.28;Récent (2019-2024);Lozère;Occitanie
+49;9366;1820;4024;19.43;Récent (2019-2024);Maine-et-Loire;Pays de la Loire
+5;3243;660;1324;20.35;Récent (2019-2024);Hautes-Alpes;Provence-Alpes-Côte d Azur
+50;6050;1389;2432;22.96;Récent (2019-2024);Manche;Normandie
+51;8087;1247;3192;15.42;Récent (2019-2024);Marne;Grand Est
+52;1514;500;678;33.03;Récent (2019-2024);Haute-Marne;Grand Est
+53;1696;721;748;42.51;Récent (2019-2024);Mayenne;Pays de la Loire
+54;8380;1244;3334;14.84;Récent (2019-2024);Meurthe-et-Moselle;Grand Est
+55;1545;455;655;29.45;Récent (2019-2024);Meuse;Grand Est
+56;7428;1601;3184;21.55;Récent (2019-2024);Morbihan;Bretagne
+57;4901;1512;1997;30.85;Récent (2019-2024);Moselle;Grand Est
+58;2187;600;993;27.43;Récent (2019-2024);Nièvre;Bourgogne-Franche-Comté
+59;14521;3318;5834;22.85;Récent (2019-2024);Nord;Hauts-de-France
+6;12389;2610;5304;21.07;Récent (2019-2024);Alpes-Maritimes;Provence-Alpes-Côte d Azur
+60;7327;1538;2992;20.99;Récent (2019-2024);Oise;Hauts-de-France
+61;3252;964;1377;29.64;Récent (2019-2024);Orne;Normandie
+62;8383;2658;3242;31.71;Récent (2019-2024);Pas-de-Calais;Hauts-de-France
+63;7384;1619;2959;21.93;Récent (2019-2024);Puy-de-Dôme;Auvergne-Rhône-Alpes
+64;12355;1696;5213;13.73;Récent (2019-2024);Pyrénées-Atlantiques;Nouvelle-Aquitaine
+65;2796;712;1185;25.46;Récent (2019-2024);Hautes-Pyrénées;Occitanie
+66;5423;1117;2169;20.6;Récent (2019-2024);Pyrénées-Orientales;Occitanie
+67;9284;1508;3819;16.24;Récent (2019-2024);Bas-Rhin;Grand Est
+68;5202;1365;2164;26.24;Récent (2019-2024);Haut-Rhin;Grand Est
+69;33364;3572;12715;10.71;Récent (2019-2024);Rhône;Auvergne-Rhône-Alpes
+7;3610;1021;1623;28.28;Récent (2019-2024);Ardèche;Auvergne-Rhône-Alpes
+70;1544;677;642;43.85;Récent (2019-2024);Haute-Saône;Bourgogne-Franche-Comté
+71;7047;1696;2821;24.07;Récent (2019-2024);Saône-et-Loire;Bourgogne-Franche-Comté
+72;5821;1075;2378;18.47;Récent (2019-2024);Sarthe;Pays de la Loire
+73;4022;1205;1559;29.96;Récent (2019-2024);Savoie;Auvergne-Rhône-Alpes
+74;7565;1884;2997;24.9;Récent (2019-2024);Haute-Savoie;Auvergne-Rhône-Alpes
+75;75566;2989;29430;3.96;Récent (2019-2024);Paris;Île-de-France
+76;11076;2334;4317;21.07;Récent (2019-2024);Seine-Maritime;Normandie
+77;13623;2324;5292;17.06;Récent (2019-2024);Seine-et-Marne;Île-de-France
+78;10969;1459;4060;13.3;Récent (2019-2024);Yvelines;Île-de-France
+79;2738;940;1129;34.33;Récent (2019-2024);Deux-Sèvres;Nouvelle-Aquitaine
+8;1288;504;601;39.13;Récent (2019-2024);Ardennes;Grand Est
+80;5666;1213;2307;21.41;Récent (2019-2024);Somme;Hauts-de-France
+81;3091;924;1263;29.89;Récent (2019-2024);Tarn;Occitanie
+82;2109;827;889;39.21;Récent (2019-2024);Tarn-et-Garonne;Occitanie
+83;12320;3347;4809;27.17;Récent (2019-2024);Var;Provence-Alpes-Côte d Azur
+84;5088;1527;1923;30.01;Récent (2019-2024);Vaucluse;Provence-Alpes-Côte d Azur
+85;4840;1780;2059;36.78;Récent (2019-2024);Vendée;Pays de la Loire
+86;3346;1007;1317;30.1;Récent (2019-2024);Vienne;Nouvelle-Aquitaine
+87;5719;969;2412;16.94;Récent (2019-2024);Haute-Vienne;Nouvelle-Aquitaine
+88;2560;899;1044;35.12;Récent (2019-2024);Vosges;Grand Est
+89;2942;938;1141;31.88;Récent (2019-2024);Yonne;Bourgogne-Franche-Comté
+9;2008;499;825;24.85;Récent (2019-2024);Ariège;Occitanie
+90;675;215;277;31.85;Récent (2019-2024);Territoire de Belfort;Bourgogne-Franche-Comté
+91;20491;1533;8099;7.48;Récent (2019-2024);Essonne;Île-de-France
+92;34209;1487;14367;4.35;Récent (2019-2024);Hauts-de-Seine;Île-de-France
+93;42603;2317;16595;5.44;Récent (2019-2024);Seine-Saint-Denis;Île-de-France
+94;34499;1556;13783;4.51;Récent (2019-2024);Val-de-Marne;Île-de-France
+95;12523;1244;5191;9.93;Récent (2019-2024);Val-d Oise;Île-de-France

@@ -1,0 +1,2 @@
+﻿n_accidents_hist;n_usagers_hist;n_tues_hist;taux_mortalite_hist;n_accidents_rec;n_usagers_rec;n_graves_rec;taux_gravite_rec;auc_modele_a;recall_modele_a;precision_modele_a;f1_modele_a;auc_modele_b_rf;recall_modele_b;precision_modele_b;f1_modele_b
+929164;2071513;55062;2.66;309756;774515;134892;17.42;0.8388;0.7874;0.0764;0.1392;0.8164;0.7873;0.3523;0.4868

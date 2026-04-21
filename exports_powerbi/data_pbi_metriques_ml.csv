@@ -1,0 +1,9 @@
+﻿modele;metrique;valeur;seuil_ok;statut
+Modèle A (2005-2018);AUC-ROC;0.8388;0.7;Objectif atteint
+Modèle A (2005-2018);Recall;0.7874;0.65;Objectif atteint
+Modèle A (2005-2018);Precision;0.0764;0.1;En dessous objectif
+Modèle A (2005-2018);F1-Score;0.1392;0.2;En dessous objectif
+Modèle B (2019-2024);AUC-ROC;0.8164;0.7;Objectif atteint
+Modèle B (2019-2024);Recall;0.7873;0.65;Objectif atteint
+Modèle B (2019-2024);Precision;0.3523;0.1;Objectif atteint
+Modèle B (2019-2024);F1-Score;0.4868;0.2;Objectif atteint

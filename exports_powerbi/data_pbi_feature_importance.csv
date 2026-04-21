@@ -1,0 +1,27 @@
+﻿feature;importance;modele;rang
+agg;0.235486;Modèle A (2005-2018);1
+col;0.17474;Modèle A (2005-2018);2
+is_hors_agglo;0.145501;Modèle A (2005-2018);3
+age;0.09208;Modèle A (2005-2018);4
+is_vru;0.080546;Modèle A (2005-2018);5
+catv;0.07065;Modèle A (2005-2018);6
+tranche_age;0.057879;Modèle A (2005-2018);7
+is_nuit_sans_eclairage;0.055487;Modèle A (2005-2018);8
+moment_journee;0.034502;Modèle A (2005-2018);9
+lum;0.030891;Modèle A (2005-2018);10
+atm;0.01222;Modèle A (2005-2018);11
+is_weekend;0.010017;Modèle A (2005-2018);12
+is_vru;0.323855;Modèle B (2019-2024);1
+col;0.195919;Modèle B (2019-2024);2
+catv;0.110333;Modèle B (2019-2024);3
+is_hors_agglo;0.097214;Modèle B (2019-2024);4
+agg;0.077334;Modèle B (2019-2024);5
+age;0.061346;Modèle B (2019-2024);6
+vma_risque;0.043589;Modèle B (2019-2024);7
+tranche_age;0.037142;Modèle B (2019-2024);8
+lum;0.017346;Modèle B (2019-2024);9
+is_nuit_sans_eclairage;0.015096;Modèle B (2019-2024);10
+is_weekend;0.007321;Modèle B (2019-2024);11
+motor_electrique;0.006879;Modèle B (2019-2024);12
+atm;0.006626;Modèle B (2019-2024);13
+moment_journee;0.0;Modèle B (2019-2024);14
