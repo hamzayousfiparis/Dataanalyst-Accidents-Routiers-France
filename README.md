@@ -20,7 +20,7 @@
 | **Volume** | 2 846 028 usagers accidentés après nettoyage |
 | **Méthode** | Double modèle Random Forest (rupture ONISR 2019) |
 | **Résultat clé** | AUC-ROC > 0.80, Recall ~79% — le modèle détecte 4 accidents graves sur 5 |
-| **Livrable** | Notebook Python + Dashboard Power BI 5 pages + 5 Recommandations Smart City |
+| **Livrable** | Notebook Python + Dashboard Power BI 5 pages + Présentation PowerPoint + 5 Recommandations Smart City |
 
 ---
 
@@ -231,6 +231,14 @@ Dataanalyst-Accidents-Routiers-France/
 └── presentation/
     └── BAAC_Hamza_Soutenance.pptx   # PowerPoint de soutenance (20 slides)
 ```
+
+---
+
+## 🗣️ Présentation PowerPoint
+
+Retrouvez la synthèse du projet et les recommandations clés dans la présentation PowerPoint :
+
+![Page de garde de la présentation](images/presentation_cover.png)
 
 ---
 
